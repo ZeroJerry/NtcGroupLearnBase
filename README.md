@@ -5,6 +5,7 @@ Ntc学习中心图书馆
 资源：
 QQ群：827213772
 GitHub仓库：https : //github.com/NotoChen/NtcLearnCenterLibrary
+个人联系方式：13453387356(微信同号)
 全栈：
 前端（动静态页面主流前端框架组件），
 初步（Java主要的主流初步基础/框架），
