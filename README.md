@@ -4,7 +4,7 @@
  - 团队分支则命名:为dev-group-Name（团队名称，readme下须提供团队成员及各自的联系方式）
 ## 资源:
  - QQ群:827213772
- - GitHub仓库:https://github.com/NotoChen/NtcLearnCenterLibrary
+ - GitHub仓库:http://www.ntcdevelop.tk
 - ### 全栈:
  - 前端（动静态页面主流前端框架组件）、
  - 后端（Java为主的主流后端基础/框架）、
