@@ -1,1 +1,9 @@
-{"schemaVersion":1,"label":"is it monday","message":"no","color":"green","cacheSeconds":1800}
+{
+  "schemaVersion": 1,
+  "label": "Java Version",
+  "message": "8~11",
+  "color": "blue",
+  "labelColor": "red",
+  "isError": false,
+  "style": "flat"
+}
