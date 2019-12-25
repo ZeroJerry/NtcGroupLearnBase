@@ -4,6 +4,7 @@
   "message": "8+",
   "color": "999999",
   "labelColor": "007396",
+  "logoColor": "ffffff",
   "style": "flat",
   "namedLogo": "Java",
   "cacheSeconds": 86400
