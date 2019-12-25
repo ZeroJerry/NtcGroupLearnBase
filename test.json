@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "label": "Java Version",
-  "message": "8~11",
-  "color": "blue",
+  "label": "JDK Version",
+  "message": "8+",
+  "color": "999999",
   "labelColor": "007396",
-  "isError": false,
   "style": "flat",
-  "namedLogo": "Java"
+  "namedLogo": "Java",
+  "cacheSeconds": 86400
 }
