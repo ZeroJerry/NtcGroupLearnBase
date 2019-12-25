@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "label": "MySQL Version",
+  "message": "5.7+",
+  "color": "999999",
+  "labelColor": "4479A1",
+  "style": "flat",
+  "namedLogo": "MySQL",
+  "cacheSeconds": 86400
+}
