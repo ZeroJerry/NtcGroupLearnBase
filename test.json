@@ -5,5 +5,6 @@
   "color": "blue",
   "labelColor": "red",
   "isError": false,
-  "style": "flat"
+  "style": "flat",
+  "namedLogo": "Java"
 }
