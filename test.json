@@ -3,7 +3,7 @@
   "label": "Java Version",
   "message": "8~11",
   "color": "blue",
-  "labelColor": "red",
+  "labelColor": "007396",
   "isError": false,
   "style": "flat",
   "namedLogo": "Java"
