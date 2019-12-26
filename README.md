@@ -9,5 +9,5 @@
 ![Spring Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/NotoChenDevelopGroup/NtcGroupLearnBase/master/resources/config/readme/version/environment/Spring)
 ![Linux Version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/NotoChenDevelopGroup/NtcGroupLearnBase/master/resources/config/readme/version/environment/Linux)
 ###### 联系我们
-![Tencent QQ Group](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/NotoChenDevelopGroup/NtcGroupLearnBase/master/resources/config/readme/contact/Tencent QQ Group)
+![Tencent QQ Group](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/NotoChenDevelopGroup/NtcGroupLearnBase/master/resources/config/readme/contact/TencentQQGroup)
 
