@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "label": "JDK Version",
-  "message": "8+",
+  "label": "MySQL Version",
+  "message": "5.7 +",
   "color": "999999",
-  "labelColor": "007396",
+  "labelColor": "4479A1",
   "logoColor": "ffffff",
   "style": "flat",
-  "namedLogo": "Java",
+  "namedLogo": "MySQL",
   "cacheSeconds": 86400
 }

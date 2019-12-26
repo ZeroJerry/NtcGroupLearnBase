@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "label": "MySQL Version",
-  "message": "5.7+",
+  "label": "Spring Version",
+  "message": "5.0.x +",
   "color": "999999",
-  "labelColor": "4479A1",
+  "labelColor": "6DB33F",
   "logoColor": "ffffff",
   "style": "flat",
-  "namedLogo": "MySQL",
+  "namedLogo": "Spring",
   "cacheSeconds": 86400
 }

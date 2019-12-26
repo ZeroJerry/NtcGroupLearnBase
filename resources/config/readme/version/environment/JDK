@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "label": "Spring Version",
-  "message": "5.0.x",
+  "label": "JDK Version",
+  "message": "8 +",
   "color": "999999",
-  "labelColor": "6DB33F",
+  "labelColor": "007396",
   "logoColor": "ffffff",
   "style": "flat",
-  "namedLogo": "Spring",
+  "namedLogo": "Java",
   "cacheSeconds": 86400
 }
