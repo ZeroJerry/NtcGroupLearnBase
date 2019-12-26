@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "label": "Linux Version",
+  "message": "CentOS 7.6+",
+  "color": "999999",
+  "labelColor": "FCC624",
+  "logoColor": "ffffff",
+  "style": "flat",
+  "namedLogo": "Linux",
+  "cacheSeconds": 86400
+}
