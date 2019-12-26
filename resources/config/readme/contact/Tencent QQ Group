@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "label": "Tencent QQ Group",
+  "message": "827213772",
+  "color": "999999",
+  "labelColor": "EB1923",
+  "logoColor": "ffffff",
+  "style": "flat",
+  "namedLogo": "Tencent QQ",
+  "cacheSeconds": 86400
+}
